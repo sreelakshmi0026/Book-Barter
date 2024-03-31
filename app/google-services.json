@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928016316549",
+    "project_id": "book-barter-d5e56",
+    "storage_bucket": "book-barter-d5e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928016316549:android:d5799634cdc5944d8b11ec",
+        "android_client_info": {
+          "package_name": "com.example.bookbarter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcG7GYi9MtNZORgW9U0GFLLuRliu8bSNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

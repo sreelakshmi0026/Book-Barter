@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Barter</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Genre">
+        <item>Select Genre</item>
+        <item>Sci-Fi</item>
+        <item>Comedy</item>
+        <item>Thriller</item>
+        <item>Detective</item>
+        <item>Romantic</item>
+        <item>Horror</item>
+        <item>History</item>
+        <item>Comic</item>
+    </string-array>
+    <string name="default_notification_channel_id">com.domain.appname.urgent</string>
+</resources>
